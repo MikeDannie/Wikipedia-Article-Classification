@@ -22,6 +22,11 @@ classification.
 
 Post-Evaluation questions:
 1. What’s the accuracy you are getting?
+   We got an accuracy 92.66% with the SVM model
+ 
 2. What if you choose SVM instead of logistic regression?
+    We have choosen the SVM intead of logistic regression
+ 
 3. What features do you think are important? Can you get the same accuracy using only a
 single feature?
+  
